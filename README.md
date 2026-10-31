@@ -12,18 +12,19 @@ I build complex **enterprise Angular** applications and bring **agentic AI** int
 
 🎯 **My primary interests:** agentic workflows, agent harnesses and agentic UI.
 
-### 🤖 What I'm working on
+### 🤖 What I do day to day
 
 - **Agent harnesses** inside enterprise Angular apps: agent loop, tool calling, guardrails and conversation state.
-- **Agentic workflows** with human-in-the-loop, including one designed for Business Analysts.
-- **MCP servers and tools** that give agents controlled access to domain APIs.
-- **Copilot / chat UIs** with streaming, built on signals.
+- **Agentic workflows** with human-in-the-loop, for developers and for non-dev roles such as Business Analysts.
+- **Agentic UI**: copilot and chat interfaces with streaming, built on signals.
+- **MCP servers and tools** that give agents controlled access to domain APIs, design systems and component libraries.
+- **Agent skills** that encode front-end and Angular standards, so coding agents follow the team's conventions.
 - **Agents in CI/CD**: agents running in Jenkins and GitLab pipelines under our own rules, plus **eval runners** to measure agent quality.
-- **Modern Angular at scale**: Angular 22, zoneless, signals and `@defer`, in an NX monorepo with 15+ apps and ~1,000 libraries, with a strong focus on **web performance**.
+- **Modern Angular at scale**: Angular 22, zoneless, signals and `@defer` in large NX monorepos (15+ apps, ~1,000 libraries), with a strong focus on **web performance**.
 
 ### 🧪 Always learning
 
-- I keep switching between coding agents (**Claude Code, Codex**…) to try them all.
+- I keep switching between coding agents (**Claude Code, Codex, Kiro CLI**…) to try them all.
 - I build **my own agents from scratch** to understand how they work internally.
 - I'm learning **AI from the roots** (Machine Learning, Deep Learning and the fundamentals behind modern AI). I'm also building a website *(work in progress)* to help others understand these concepts.
 
@@ -39,7 +40,7 @@ I build complex **enterprise Angular** applications and bring **agentic AI** int
 
 ### 🧰 Tech
 
-- **Agentic AI:** agent harnesses · agentic workflows · MCP · tool calling · human-in-the-loop · eval runners · agents in CI/CD · Claude Code · Codex
+- **Agentic AI:** agent harnesses · agentic workflows · MCP · tool calling · human-in-the-loop · agentic UI · agent skills · eval runners · agents in CI/CD · Claude Code · Codex · Kiro CLI
 - **Front-end:** Angular · Signals · Zoneless · SSR · RxJS · NgRx · TypeScript · NX
 - **Back-end & cloud:** NestJS · AWS · Google Cloud · BigQuery · MongoDB
 - **DevOps & CI/CD:** Jenkins · GitLab pipelines · Docker · Kubernetes
