@@ -10,12 +10,15 @@
 
 I build complex **enterprise Angular** applications and bring **agentic AI** into them. I'm passionate about every framework and, above all, **AI**, and I try to learn something new every day.
 
+🎯 **My primary interests:** agentic workflows, agent harnesses and agentic UI.
+
 ### 🤖 What I'm working on
 
 - **Agent harnesses** inside enterprise Angular apps: agent loop, tool calling, guardrails and conversation state.
 - **Agentic workflows** with human-in-the-loop, including one designed for Business Analysts.
 - **MCP servers and tools** that give agents controlled access to domain APIs.
 - **Copilot / chat UIs** with streaming, built on signals.
+- **Agents in CI/CD**: agents running in Jenkins and GitLab pipelines under our own rules, plus **eval runners** to measure agent quality.
 - **Modern Angular at scale**: Angular 22, zoneless, signals and `@defer`, in an NX monorepo with 15+ apps and ~1,000 libraries, with a strong focus on **web performance**.
 
 ### 🧪 Always learning
@@ -36,7 +39,8 @@ I build complex **enterprise Angular** applications and bring **agentic AI** int
 
 ### 🧰 Tech
 
-- **Agentic AI:** agent harnesses · agentic workflows · MCP · tool calling · human-in-the-loop · Claude Code · Codex
+- **Agentic AI:** agent harnesses · agentic workflows · MCP · tool calling · human-in-the-loop · eval runners · agents in CI/CD · Claude Code · Codex
 - **Front-end:** Angular · Signals · Zoneless · SSR · RxJS · NgRx · TypeScript · NX
-- **Back-end & cloud:** NestJS · Google Cloud · BigQuery · MongoDB · Docker · Kubernetes
+- **Back-end & cloud:** NestJS · AWS · Google Cloud · BigQuery · MongoDB
+- **DevOps & CI/CD:** Jenkins · GitLab pipelines · Docker · Kubernetes
 - **Practices:** DDD · SOLID · TDD / BDD · Jest · Cypress · web performance
